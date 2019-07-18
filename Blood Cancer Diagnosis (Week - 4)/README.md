@@ -22,4 +22,4 @@ This SeNet model seems to be the best model tried on this dataset till now by me
 
 #### Training Accuracy vs Validation Accuracy for SeNet model
 
-![Training vs Validation Accuracy](../AI-Without-Borders---Projects/Blood Cancer Diagnosis (Week - 4)/TAccuracy vs VAccuracy.jpeg)
+![Training vs Validation Accuracy](/TAccuracy%20vs%20VAccuracy.jpeg)
