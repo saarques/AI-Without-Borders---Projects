@@ -22,4 +22,4 @@ This SeNet model seems to be the best model tried on this dataset till now by me
 
 #### Training Accuracy vs Validation Accuracy for SeNet model
 
-![](/TAccuracy%20vs%20VAccuracy.jpeg)
+![](/images/TAccuracyvsVAccuracy.jpeg)
