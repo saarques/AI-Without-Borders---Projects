@@ -1,5 +1,8 @@
 from flask import Flask, jsonify, make_response, request
-
+#curl http://localhost:5000/predict \
+#--request POST \
+#--header "Content-Type: application/json" \
+#--data '{"address": "cell"}'
 import keras
 import numpy as np
 from PIL import Image
